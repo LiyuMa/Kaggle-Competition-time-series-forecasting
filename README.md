@@ -14,7 +14,7 @@
 * Statistical and Machine Learning forecasting methods: Concerns and ways forward, 2018.
 * An Empirical Comparison of Machine Learning Models for Time Series Forecasting, 2010.
 
-The results of this study suggest that:
+The results of these papers suggest that:
 * Classical methods like ETS and ARIMA out-perform machine learning and deep learning methods for one-step  
   forecasting on univariate datasets.
 * Classical methods like Theta and ARIMA out-perform machine learning and deep learning methods for multi-step 
