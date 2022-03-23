@@ -8,7 +8,7 @@
 
 
 #### There are a lot of time series forecasting techniques. Generally, the techniques can be divided into two categories, 
-     i.e. Classical statistical methods and machine learning methods. Based on the researches listed below:
+#### i.e. Classical statistical methods and machine learning methods. Based on the researches listed below:
 * The M3-Competition: Results, Conclusions and Implications, 2000.
 * The M4 Competition: Results, findings, conclusion and way forward, 2018.
 * Statistical and Machine Learning forecasting methods: Concerns and ways forward, 2018.
