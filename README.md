@@ -57,6 +57,6 @@ Here are preprocessing techniques being applied:
 * Acquire the "d"s and "D"s for the non-stationary time series
 
 #### For this kaggle competition, the host doesn't provide actual sales data for test data. The model performance or your score in the 
-competition is provided after submitting your forecasting data for those time period in testing data via Kaggle website. For this project, 
-to test our model performance, the "train.csv" provided by host is going to be split into two part: training data and testing data. We use 
-training data to build our model and test our model performance on testing data.
+#### competition is provided after submitting your forecasting data for those time period in testing data via Kaggle website. For this project, 
+#### to test our model performance, the "train.csv" provided by host is going to be split into two part: training data and testing data. We use 
+#### training data to build our model and test our model performance on testing data.
