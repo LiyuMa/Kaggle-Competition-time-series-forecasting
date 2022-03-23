@@ -1,9 +1,9 @@
 
-# This project comes from a competition on Kaggle. 
-# The goal is to predict sales for the 15 days after the last date in the training data for the thousands of product 
-#  families sold at Favorita stores located in Ecuador.
-# The data shared by the host are training data, testing data, and other complementary meta data such as the store information, 
-#  the oil price information, and the holiday events information, and special events like wage paying and earthquake information.
+#### This project comes from a competition on Kaggle. 
+#### The goal is to predict sales for the 15 days after the last date in the training data for the thousands of product 
+####  families sold at Favorita stores located in Ecuador.
+#### The data shared by the host are training data, testing data, and other complementary meta data such as the store information, 
+####  the oil price information, and the holiday events information, and special events like wage paying and earthquake information.
 
 
 
